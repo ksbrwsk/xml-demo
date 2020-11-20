@@ -1,0 +1,10 @@
+<SimpleXmlBean>
+    <id>1</id>
+    <name>Name</name>
+    <vorname>Vorname</vorname>
+    <stringList>
+        <stringList>Name1</stringList>
+        <stringList>Name2</stringList>
+        <stringList>Name3</stringList>
+    </stringList>
+</SimpleXmlBean>
